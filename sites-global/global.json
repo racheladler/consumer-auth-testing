@@ -1,50 +1,50 @@
 {
 	"name": "Consumer Auth",
-    "photoGallery": [
+    "faqs": [
 		{
-			"image": {
-			  "url": "/images/bowman.png",
-			  "name": "Bowman"
+			"faq": {
+			  "question": "/images/bowman.png",
+			  "answer": "Bowman"
 			}
 		},
 		{
-			"image": {
+			"faq": {
 			  "url": "/images/breed.jpg",
 			  "name": "Bryan"
 			}
 		},
 		{
-			"image": {
+			"faq": {
 			  "url": "/images/duval.jpg",
 			  "name": "Duval"
 			}
 		},
 		{
-			"image": {
+			"faq": {
 			  "url": "/images/pranjal.jpg",
 			  "name": "Pranjal"
 			}
 		},
 		{
-		  "image": {
+		  "faq": {
 			"url": "/images/luc.png",
 			"name": "Luc"
 		  }
 		},
 		{
-		  "image": {
+		  "faq": {
 			"url": "/images/gideon.jpg",
 			"name": "Gideon"
 		  }
 		},
 		{
-			"image": {
+			"faq": {
 			  "url": "/images/travis.jpg",
 			  "name": "Travis"
 			}
 		},
 		{
-			"image": {
+			"faq": {
 			  "url": "/images/max.png",
 			  "name": "Max"	
 			}
