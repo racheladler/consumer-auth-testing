@@ -3,8 +3,8 @@
     "faqs": [
 		{
 			"faq": {
-			  "question": "/images/bowman.png",
-			  "answer": "Bowman"
+			  "url": "/images/bowman.png",
+			  "name": "Bowman"
 			}
 		},
 		{
