@@ -1,0 +1,7 @@
+        {{#each this}}
+            {{#if @first}}
+                <a href={{this.faqs.url}}>
+                    <img class="hover:grow hover:shadow-lg" src={{this.faqs.url}}>
+                </a>            
+            {{/if}}
+        {{/each}}
